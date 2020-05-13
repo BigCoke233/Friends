@@ -149,10 +149,16 @@
 	"avatar": "https://cdn.v2ex.com/gravatar/af12f24d493e12b714cb70f3c7b3662e?s=500&r=X&d=",
 	"des": "愿为少女，永存初心"
   },
-{
+  {
     "name": "奶油话梅糖",
 	"link": "https://naiyouhuameitang.club/",
 	"avatar": "https://cdn.v2ex.com/gravatar/4da313ae7501a2b86f9d952c11ea5699?s=220&r=X&d=mm",
 	"des": "最後どうして私だけが"
-  }
+  },
+  {
+    "name": "Ghosin",
+	"link": "https://ghos.in",
+	"avatar": "https://gravatar.loli.net/avatar/2e7ee4285fc617220b028dc409ae08fd?s=300",
+	"des": "🤔那么问题来了"
+  },
 ]
